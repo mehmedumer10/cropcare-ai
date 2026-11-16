@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+# trained weights
+*.keras
+*.h5
+*.tflite
+*.pkl
+# Android
+.gradle/
+.idea/
+build/
+local.properties
+google-services.json
+*.apk
